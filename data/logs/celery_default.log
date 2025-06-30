@@ -1,0 +1,258 @@
+/root/anaconda3/envs/MarkTower/lib/python3.11/site-packages/drf_yasg/__init__.py:2: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import DistributionNotFound, get_distribution
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.948 seconds.
+Prefix dict has been built successfully.
+/root/anaconda3/envs/MarkTower/lib/python3.11/site-packages/celery/platforms.py:841: SecurityWarning: You're running the worker with superuser privileges: this is
+absolutely not recommended!
+
+Please specify a different user using the --uid option.
+
+User information: uid=0 euid=0 gid=0 egid=0
+
+  warnings.warn(SecurityWarning(ROOT_DISCOURAGED.format(
+ 
+ -------------- celery@ylxy-NUC8i5BEH v5.5.3 (immunity)
+--- ***** ----- 
+-- ******* ---- Linux-6.11.0-26-generic-x86_64-with-glibc2.39 2025-06-30 10:56:41
+- *** --- * --- 
+- ** ---------- [config]
+- ** ---------- .> app:         MaxKB:0x74dc7d729650
+- ** ---------- .> transport:   sqla+sqlite:////root/MarkTower/xunlian-server/data/celery_task/celery_db.sqlite3
+- ** ---------- .> results:     sqlite:////root/MarkTower/xunlian-server/data/celery_task/celery_results.sqlite3
+- *** --- * --- .> concurrency: 10 (thread)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+
+worker: Warm shutdown (MainProcess)
+/root/anaconda3/envs/MarkTower/lib/python3.11/site-packages/drf_yasg/__init__.py:2: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import DistributionNotFound, get_distribution
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.920 seconds.
+Prefix dict has been built successfully.
+/root/anaconda3/envs/MarkTower/lib/python3.11/site-packages/celery/platforms.py:841: SecurityWarning: You're running the worker with superuser privileges: this is
+absolutely not recommended!
+
+Please specify a different user using the --uid option.
+
+User information: uid=0 euid=0 gid=0 egid=0
+
+  warnings.warn(SecurityWarning(ROOT_DISCOURAGED.format(
+ 
+ -------------- celery@ylxy-NUC8i5BEH v5.5.3 (immunity)
+--- ***** ----- 
+-- ******* ---- Linux-6.11.0-26-generic-x86_64-with-glibc2.39 2025-06-30 10:58:00
+- *** --- * --- 
+- ** ---------- [config]
+- ** ---------- .> app:         MaxKB:0x7d89b272a0d0
+- ** ---------- .> transport:   sqla+sqlite:////root/MarkTower/xunlian-server/data/celery_task/celery_db.sqlite3
+- ** ---------- .> results:     sqlite:////root/MarkTower/xunlian-server/data/celery_task/celery_results.sqlite3
+- *** --- * --- .> concurrency: 10 (thread)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+
+worker: Hitting Ctrl+C again will initiate cold shutdown, terminating all running tasks!
+
+worker: Warm shutdown (MainProcess)
+
+worker: Warm shutdown (MainProcess)
+/root/anaconda3/envs/MarkTower/lib/python3.11/site-packages/drf_yasg/__init__.py:2: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import DistributionNotFound, get_distribution
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 1.012 seconds.
+Prefix dict has been built successfully.
+/root/anaconda3/envs/MarkTower/lib/python3.11/site-packages/celery/platforms.py:841: SecurityWarning: You're running the worker with superuser privileges: this is
+absolutely not recommended!
+
+Please specify a different user using the --uid option.
+
+User information: uid=0 euid=0 gid=0 egid=0
+
+  warnings.warn(SecurityWarning(ROOT_DISCOURAGED.format(
+ 
+ -------------- celery@ylxy-NUC8i5BEH v5.5.3 (immunity)
+--- ***** ----- 
+-- ******* ---- Linux-6.11.0-26-generic-x86_64-with-glibc2.39 2025-06-30 11:00:02
+- *** --- * --- 
+- ** ---------- [config]
+- ** ---------- .> app:         MaxKB:0x7db674f5bf10
+- ** ---------- .> transport:   sqla+sqlite:////root/MarkTower/xunlian-server/data/celery_task/celery_db.sqlite3
+- ** ---------- .> results:     sqlite:////root/MarkTower/xunlian-server/data/celery_task/celery_results.sqlite3
+- *** --- * --- .> concurrency: 10 (thread)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+
+worker: Warm shutdown (MainProcess)
+/root/anaconda3/envs/MarkTower/lib/python3.11/site-packages/drf_yasg/__init__.py:2: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import DistributionNotFound, get_distribution
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.842 seconds.
+Prefix dict has been built successfully.
+/root/anaconda3/envs/MarkTower/lib/python3.11/site-packages/celery/platforms.py:841: SecurityWarning: You're running the worker with superuser privileges: this is
+absolutely not recommended!
+
+Please specify a different user using the --uid option.
+
+User information: uid=0 euid=0 gid=0 egid=0
+
+  warnings.warn(SecurityWarning(ROOT_DISCOURAGED.format(
+ 
+ -------------- celery@ylxy-NUC8i5BEH v5.5.3 (immunity)
+--- ***** ----- 
+-- ******* ---- Linux-6.11.0-26-generic-x86_64-with-glibc2.39 2025-06-30 11:58:26
+- *** --- * --- 
+- ** ---------- [config]
+- ** ---------- .> app:         MaxKB:0x76745a74bd50
+- ** ---------- .> transport:   sqla+sqlite:////root/MarkTower/xunlian-server/data/celery_task/celery_db.sqlite3
+- ** ---------- .> results:     sqlite:////root/MarkTower/xunlian-server/data/celery_task/celery_results.sqlite3
+- *** --- * --- .> concurrency: 10 (thread)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+
+worker: Warm shutdown (MainProcess)
+/root/anaconda3/envs/MarkTower/lib/python3.11/site-packages/drf_yasg/__init__.py:2: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import DistributionNotFound, get_distribution
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.904 seconds.
+Prefix dict has been built successfully.
+/root/anaconda3/envs/MarkTower/lib/python3.11/site-packages/celery/platforms.py:841: SecurityWarning: You're running the worker with superuser privileges: this is
+absolutely not recommended!
+
+Please specify a different user using the --uid option.
+
+User information: uid=0 euid=0 gid=0 egid=0
+
+  warnings.warn(SecurityWarning(ROOT_DISCOURAGED.format(
+ 
+ -------------- celery@ylxy-NUC8i5BEH v5.5.3 (immunity)
+--- ***** ----- 
+-- ******* ---- Linux-6.11.0-26-generic-x86_64-with-glibc2.39 2025-06-30 12:01:50
+- *** --- * --- 
+- ** ---------- [config]
+- ** ---------- .> app:         MaxKB:0x77328c355d50
+- ** ---------- .> transport:   sqla+sqlite:////root/MarkTower/xunlian-server/data/celery_task/celery_db.sqlite3
+- ** ---------- .> results:     sqlite:////root/MarkTower/xunlian-server/data/celery_task/celery_results.sqlite3
+- *** --- * --- .> concurrency: 10 (thread)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+
+worker: Warm shutdown (MainProcess)
+/root/anaconda3/envs/MarkTower/lib/python3.11/site-packages/drf_yasg/__init__.py:2: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import DistributionNotFound, get_distribution
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.655 seconds.
+Prefix dict has been built successfully.
+/root/anaconda3/envs/MarkTower/lib/python3.11/site-packages/celery/platforms.py:841: SecurityWarning: You're running the worker with superuser privileges: this is
+absolutely not recommended!
+
+Please specify a different user using the --uid option.
+
+User information: uid=0 euid=0 gid=0 egid=0
+
+  warnings.warn(SecurityWarning(ROOT_DISCOURAGED.format(
+ 
+ -------------- celery@ylxy-NUC8i5BEH v5.5.3 (immunity)
+--- ***** ----- 
+-- ******* ---- Linux-6.11.0-26-generic-x86_64-with-glibc2.39 2025-06-30 12:04:41
+- *** --- * --- 
+- ** ---------- [config]
+- ** ---------- .> app:         MaxKB:0x726a0ab76650
+- ** ---------- .> transport:   sqla+sqlite:////root/MarkTower/xunlian-server/data/celery_task/celery_db.sqlite3
+- ** ---------- .> results:     sqlite:////root/MarkTower/xunlian-server/data/celery_task/celery_results.sqlite3
+- *** --- * --- .> concurrency: 10 (thread)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+
+Restarting celery worker (/root/anaconda3/envs/MarkTower/bin/celery -A ops worker -P threads -l error -c 10 -Q celery --heartbeat-interval 10 -n celery@%h --without-mingle)
+/root/anaconda3/envs/MarkTower/lib/python3.11/site-packages/drf_yasg/__init__.py:2: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import DistributionNotFound, get_distribution
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.740 seconds.
+Prefix dict has been built successfully.
+/root/anaconda3/envs/MarkTower/lib/python3.11/site-packages/celery/platforms.py:841: SecurityWarning: You're running the worker with superuser privileges: this is
+absolutely not recommended!
+
+Please specify a different user using the --uid option.
+
+User information: uid=0 euid=0 gid=0 egid=0
+
+  warnings.warn(SecurityWarning(ROOT_DISCOURAGED.format(
+ 
+ -------------- celery@ylxy-NUC8i5BEH v5.5.3 (immunity)
+--- ***** ----- 
+-- ******* ---- Linux-6.11.0-26-generic-x86_64-with-glibc2.39 2025-06-30 12:16:20
+- *** --- * --- 
+- ** ---------- [config]
+- ** ---------- .> app:         MaxKB:0x7d553a7220d0
+- ** ---------- .> transport:   sqla+sqlite:////root/MarkTower/xunlian-server/data/celery_task/celery_db.sqlite3
+- ** ---------- .> results:     sqlite:////root/MarkTower/xunlian-server/data/celery_task/celery_results.sqlite3
+- *** --- * --- .> concurrency: 10 (thread)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+
+worker: Warm shutdown (MainProcess)
+/root/anaconda3/envs/MarkTower/lib/python3.11/site-packages/drf_yasg/__init__.py:2: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import DistributionNotFound, get_distribution
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.664 seconds.
+Prefix dict has been built successfully.
+/root/anaconda3/envs/MarkTower/lib/python3.11/site-packages/celery/platforms.py:841: SecurityWarning: You're running the worker with superuser privileges: this is
+absolutely not recommended!
+
+Please specify a different user using the --uid option.
+
+User information: uid=0 euid=0 gid=0 egid=0
+
+  warnings.warn(SecurityWarning(ROOT_DISCOURAGED.format(
+ 
+ -------------- celery@ylxy-NUC8i5BEH v5.5.3 (immunity)
+--- ***** ----- 
+-- ******* ---- Linux-6.11.0-26-generic-x86_64-with-glibc2.39 2025-06-30 14:25:51
+- *** --- * --- 
+- ** ---------- [config]
+- ** ---------- .> app:         MaxKB:0x7ad607933250
+- ** ---------- .> transport:   sqla+sqlite:////root/MarkTower/xunlian-server/data/celery_task/celery_db.sqlite3
+- ** ---------- .> results:     sqlite:////root/MarkTower/xunlian-server/data/celery_task/celery_results.sqlite3
+- *** --- * --- .> concurrency: 10 (thread)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+

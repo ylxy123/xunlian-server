@@ -2,8 +2,8 @@
 DB_NAME: maxkb
 DB_HOST: localhost
 DB_PORT: 5432
-DB_USER: root
-DB_PASSWORD: xxxxxxx
+DB_USER: postgres
+DB_PASSWORD: Shareu123.
 DB_ENGINE: django.db.backends.postgresql_psycopg2
 
 DEBUG: false

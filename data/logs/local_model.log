@@ -1,0 +1,98 @@
+[2025-06-30 10:56:17 +0800] [3019861] [INFO] Starting gunicorn 22.0.0
+[2025-06-30 10:56:17 +0800] [3019861] [INFO] Listening at: http://127.0.0.1:11636 (3019861)
+[2025-06-30 10:56:17 +0800] [3019861] [INFO] Using worker: gthread
+[2025-06-30 10:56:17 +0800] [3019865] [INFO] Booting worker with pid: 3019865
+/root/anaconda3/envs/MarkTower/lib/python3.11/site-packages/drf_yasg/__init__.py:2: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import DistributionNotFound, get_distribution
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 1.061 seconds.
+Prefix dict has been built successfully.
+[2025-06-30 10:56:53 +0800] [3019861] [INFO] Handling signal: term
+[2025-06-30 10:56:54 +0800] [3019865] [INFO] Worker exiting (pid: 3019865)
+[2025-06-30 10:56:55 +0800] [3019861] [INFO] Shutting down: Master
+[2025-06-30 10:57:50 +0800] [3020905] [INFO] Starting gunicorn 22.0.0
+[2025-06-30 10:57:50 +0800] [3020905] [INFO] Listening at: http://127.0.0.1:11636 (3020905)
+[2025-06-30 10:57:50 +0800] [3020905] [INFO] Using worker: gthread
+[2025-06-30 10:57:50 +0800] [3020908] [INFO] Booting worker with pid: 3020908
+/root/anaconda3/envs/MarkTower/lib/python3.11/site-packages/drf_yasg/__init__.py:2: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import DistributionNotFound, get_distribution
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 1.004 seconds.
+Prefix dict has been built successfully.
+[2025-06-30 10:58:17 +0800] [3020905] [INFO] Handling signal: int
+[2025-06-30 10:58:17 +0800] [3020908] [INFO] Worker exiting (pid: 3020908)
+[2025-06-30 10:58:17 +0800] [3020905] [INFO] Shutting down: Master
+[2025-06-30 10:59:52 +0800] [3021183] [INFO] Starting gunicorn 22.0.0
+[2025-06-30 10:59:52 +0800] [3021183] [INFO] Listening at: http://127.0.0.1:11636 (3021183)
+[2025-06-30 10:59:52 +0800] [3021183] [INFO] Using worker: gthread
+[2025-06-30 10:59:52 +0800] [3021184] [INFO] Booting worker with pid: 3021184
+/root/anaconda3/envs/MarkTower/lib/python3.11/site-packages/drf_yasg/__init__.py:2: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import DistributionNotFound, get_distribution
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.980 seconds.
+Prefix dict has been built successfully.
+[2025-06-30 11:00:28 +0800] [3021183] [INFO] Handling signal: term
+[2025-06-30 11:00:29 +0800] [3021184] [INFO] Worker exiting (pid: 3021184)
+[2025-06-30 11:00:29 +0800] [3021183] [INFO] Shutting down: Master
+[2025-06-30 11:58:16 +0800] [3029952] [INFO] Starting gunicorn 22.0.0
+[2025-06-30 11:58:16 +0800] [3029952] [INFO] Listening at: http://127.0.0.1:11636 (3029952)
+[2025-06-30 11:58:16 +0800] [3029952] [INFO] Using worker: gthread
+[2025-06-30 11:58:16 +0800] [3029957] [INFO] Booting worker with pid: 3029957
+/root/anaconda3/envs/MarkTower/lib/python3.11/site-packages/drf_yasg/__init__.py:2: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import DistributionNotFound, get_distribution
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.906 seconds.
+Prefix dict has been built successfully.
+[2025-06-30 11:58:51 +0800] [3029952] [INFO] Handling signal: term
+[2025-06-30 11:58:51 +0800] [3029957] [INFO] Worker exiting (pid: 3029957)
+[2025-06-30 11:58:52 +0800] [3029952] [INFO] Shutting down: Master
+[2025-06-30 12:01:40 +0800] [3030738] [INFO] Starting gunicorn 22.0.0
+[2025-06-30 12:01:40 +0800] [3030738] [INFO] Listening at: http://127.0.0.1:11636 (3030738)
+[2025-06-30 12:01:40 +0800] [3030738] [INFO] Using worker: gthread
+[2025-06-30 12:01:40 +0800] [3030741] [INFO] Booting worker with pid: 3030741
+/root/anaconda3/envs/MarkTower/lib/python3.11/site-packages/drf_yasg/__init__.py:2: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import DistributionNotFound, get_distribution
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.958 seconds.
+Prefix dict has been built successfully.
+[2025-06-30 12:02:16 +0800] [3030738] [INFO] Handling signal: term
+[2025-06-30 12:02:16 +0800] [3030741] [INFO] Worker exiting (pid: 3030741)
+[2025-06-30 12:02:17 +0800] [3030738] [INFO] Shutting down: Master
+[2025-06-30 12:04:32 +0800] [3031863] [INFO] Starting gunicorn 22.0.0
+[2025-06-30 12:04:32 +0800] [3031863] [INFO] Listening at: http://127.0.0.1:11636 (3031863)
+[2025-06-30 12:04:32 +0800] [3031863] [INFO] Using worker: gthread
+[2025-06-30 12:04:32 +0800] [3031864] [INFO] Booting worker with pid: 3031864
+/root/anaconda3/envs/MarkTower/lib/python3.11/site-packages/drf_yasg/__init__.py:2: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import DistributionNotFound, get_distribution
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.944 seconds.
+Prefix dict has been built successfully.
+[2025-06-30 12:16:09 +0800] [3031863] [INFO] Handling signal: hup
+[2025-06-30 12:16:09 +0800] [3031863] [INFO] Hang up: Master
+[2025-06-30 12:16:09 +0800] [3032957] [INFO] Booting worker with pid: 3032957
+[2025-06-30 12:16:09 +0800] [3031863] [ERROR] Worker (pid:3031864) was sent SIGHUP!
+/root/anaconda3/envs/MarkTower/lib/python3.11/site-packages/drf_yasg/__init__.py:2: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import DistributionNotFound, get_distribution
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.891 seconds.
+Prefix dict has been built successfully.
+[2025-06-30 14:22:31 +0800] [3031863] [INFO] Handling signal: term
+[2025-06-30 14:22:32 +0800] [3032957] [INFO] Worker exiting (pid: 3032957)
+[2025-06-30 14:22:32 +0800] [3031863] [INFO] Shutting down: Master
+[2025-06-30 14:25:42 +0800] [3048898] [INFO] Starting gunicorn 22.0.0
+[2025-06-30 14:25:42 +0800] [3048898] [INFO] Listening at: http://127.0.0.1:11636 (3048898)
+[2025-06-30 14:25:42 +0800] [3048898] [INFO] Using worker: gthread
+[2025-06-30 14:25:42 +0800] [3048901] [INFO] Booting worker with pid: 3048901
+/root/anaconda3/envs/MarkTower/lib/python3.11/site-packages/drf_yasg/__init__.py:2: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import DistributionNotFound, get_distribution
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.960 seconds.
+Prefix dict has been built successfully.

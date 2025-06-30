@@ -1,0 +1,287 @@
+[2025-06-30 10:56:18 +0800] [3019863] [INFO] Starting gunicorn 22.0.0
+[2025-06-30 10:56:18 +0800] [3019863] [ERROR] Connection in use: ('0.0.0.0', 8080)
+[2025-06-30 10:56:18 +0800] [3019863] [ERROR] Retrying in 1 second.
+[2025-06-30 10:56:19 +0800] [3019863] [ERROR] Connection in use: ('0.0.0.0', 8080)
+[2025-06-30 10:56:19 +0800] [3019863] [ERROR] Retrying in 1 second.
+[2025-06-30 10:56:20 +0800] [3019863] [ERROR] Connection in use: ('0.0.0.0', 8080)
+[2025-06-30 10:56:20 +0800] [3019863] [ERROR] Retrying in 1 second.
+[2025-06-30 10:56:21 +0800] [3019863] [ERROR] Connection in use: ('0.0.0.0', 8080)
+[2025-06-30 10:56:21 +0800] [3019863] [ERROR] Retrying in 1 second.
+[2025-06-30 10:56:22 +0800] [3019863] [ERROR] Connection in use: ('0.0.0.0', 8080)
+[2025-06-30 10:56:22 +0800] [3019863] [ERROR] Retrying in 1 second.
+[2025-06-30 10:56:23 +0800] [3019863] [ERROR] Can't connect to ('0.0.0.0', 8080)
+[2025-06-30 10:57:50 +0800] [3020906] [INFO] Starting gunicorn 22.0.0
+[2025-06-30 10:57:50 +0800] [3020906] [ERROR] Connection in use: ('0.0.0.0', 8080)
+[2025-06-30 10:57:50 +0800] [3020906] [ERROR] Retrying in 1 second.
+[2025-06-30 10:57:51 +0800] [3020906] [ERROR] Connection in use: ('0.0.0.0', 8080)
+[2025-06-30 10:57:51 +0800] [3020906] [ERROR] Retrying in 1 second.
+[2025-06-30 10:57:52 +0800] [3020906] [ERROR] Connection in use: ('0.0.0.0', 8080)
+[2025-06-30 10:57:52 +0800] [3020906] [ERROR] Retrying in 1 second.
+[2025-06-30 10:57:53 +0800] [3020906] [ERROR] Connection in use: ('0.0.0.0', 8080)
+[2025-06-30 10:57:53 +0800] [3020906] [ERROR] Retrying in 1 second.
+[2025-06-30 10:57:54 +0800] [3020906] [ERROR] Connection in use: ('0.0.0.0', 8080)
+[2025-06-30 10:57:54 +0800] [3020906] [ERROR] Retrying in 1 second.
+[2025-06-30 10:57:55 +0800] [3020906] [ERROR] Can't connect to ('0.0.0.0', 8080)
+[2025-06-30 10:59:52 +0800] [3021182] [INFO] Starting gunicorn 22.0.0
+[2025-06-30 10:59:52 +0800] [3021182] [ERROR] Connection in use: ('0.0.0.0', 8080)
+[2025-06-30 10:59:52 +0800] [3021182] [ERROR] Retrying in 1 second.
+[2025-06-30 10:59:53 +0800] [3021182] [ERROR] Connection in use: ('0.0.0.0', 8080)
+[2025-06-30 10:59:53 +0800] [3021182] [ERROR] Retrying in 1 second.
+[2025-06-30 10:59:54 +0800] [3021182] [ERROR] Connection in use: ('0.0.0.0', 8080)
+[2025-06-30 10:59:54 +0800] [3021182] [ERROR] Retrying in 1 second.
+[2025-06-30 10:59:55 +0800] [3021182] [ERROR] Connection in use: ('0.0.0.0', 8080)
+[2025-06-30 10:59:55 +0800] [3021182] [ERROR] Retrying in 1 second.
+[2025-06-30 10:59:56 +0800] [3021182] [ERROR] Connection in use: ('0.0.0.0', 8080)
+[2025-06-30 10:59:56 +0800] [3021182] [ERROR] Retrying in 1 second.
+[2025-06-30 10:59:57 +0800] [3021182] [ERROR] Can't connect to ('0.0.0.0', 8080)
+[2025-06-30 11:58:16 +0800] [3029953] [INFO] Starting gunicorn 22.0.0
+[2025-06-30 11:58:16 +0800] [3029953] [ERROR] Connection in use: ('0.0.0.0', 8080)
+[2025-06-30 11:58:16 +0800] [3029953] [ERROR] Retrying in 1 second.
+[2025-06-30 11:58:17 +0800] [3029953] [ERROR] Connection in use: ('0.0.0.0', 8080)
+[2025-06-30 11:58:17 +0800] [3029953] [ERROR] Retrying in 1 second.
+[2025-06-30 11:58:18 +0800] [3029953] [ERROR] Connection in use: ('0.0.0.0', 8080)
+[2025-06-30 11:58:18 +0800] [3029953] [ERROR] Retrying in 1 second.
+[2025-06-30 11:58:19 +0800] [3029953] [ERROR] Connection in use: ('0.0.0.0', 8080)
+[2025-06-30 11:58:19 +0800] [3029953] [ERROR] Retrying in 1 second.
+[2025-06-30 11:58:20 +0800] [3029953] [ERROR] Connection in use: ('0.0.0.0', 8080)
+[2025-06-30 11:58:20 +0800] [3029953] [ERROR] Retrying in 1 second.
+[2025-06-30 11:58:21 +0800] [3029953] [ERROR] Can't connect to ('0.0.0.0', 8080)
+[2025-06-30 12:01:40 +0800] [3030740] [INFO] Starting gunicorn 22.0.0
+[2025-06-30 12:01:40 +0800] [3030740] [ERROR] Connection in use: ('0.0.0.0', 8080)
+[2025-06-30 12:01:40 +0800] [3030740] [ERROR] Retrying in 1 second.
+[2025-06-30 12:01:41 +0800] [3030740] [ERROR] Connection in use: ('0.0.0.0', 8080)
+[2025-06-30 12:01:41 +0800] [3030740] [ERROR] Retrying in 1 second.
+[2025-06-30 12:01:42 +0800] [3030740] [ERROR] Connection in use: ('0.0.0.0', 8080)
+[2025-06-30 12:01:42 +0800] [3030740] [ERROR] Retrying in 1 second.
+[2025-06-30 12:01:43 +0800] [3030740] [ERROR] Connection in use: ('0.0.0.0', 8080)
+[2025-06-30 12:01:43 +0800] [3030740] [ERROR] Retrying in 1 second.
+[2025-06-30 12:01:44 +0800] [3030740] [ERROR] Connection in use: ('0.0.0.0', 8080)
+[2025-06-30 12:01:44 +0800] [3030740] [ERROR] Retrying in 1 second.
+[2025-06-30 12:01:45 +0800] [3030740] [ERROR] Can't connect to ('0.0.0.0', 8080)
+[2025-06-30 12:04:32 +0800] [3031862] [INFO] Starting gunicorn 22.0.0
+[2025-06-30 12:04:32 +0800] [3031862] [INFO] Listening at: http://0.0.0.0:8080 (3031862)
+[2025-06-30 12:04:32 +0800] [3031862] [INFO] Using worker: gthread
+[2025-06-30 12:04:32 +0800] [3031865] [INFO] Booting worker with pid: 3031865
+[2025-06-30 12:04:32 +0800] [3031866] [INFO] Booting worker with pid: 3031866
+[2025-06-30 12:04:32 +0800] [3031874] [INFO] Booting worker with pid: 3031874
+/root/anaconda3/envs/MarkTower/lib/python3.11/site-packages/drf_yasg/__init__.py:2: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import DistributionNotFound, get_distribution
+/root/anaconda3/envs/MarkTower/lib/python3.11/site-packages/drf_yasg/__init__.py:2: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import DistributionNotFound, get_distribution
+/root/anaconda3/envs/MarkTower/lib/python3.11/site-packages/drf_yasg/__init__.py:2: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import DistributionNotFound, get_distribution
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.961 seconds.
+Prefix dict has been built successfully.
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.964 seconds.
+Prefix dict has been built successfully.
+Loading model cost 0.938 seconds.
+Prefix dict has been built successfully.
+127.0.0.1 [30/Jun/2025:12:05:02 +0800] 5.044267s "GET /api/profile HTTP/1.1" 200 114
+127.0.0.1 [30/Jun/2025:12:06:36 +0800] 4.910313s "POST /api/user/login HTTP/1.1" 200 80
+127.0.0.1 [30/Jun/2025:12:06:52 +0800] 0.013150s "POST /api/user/login HTTP/1.1" 200 80
+127.0.0.1 [30/Jun/2025:12:07:10 +0800] 0.013173s "POST /api/user/login HTTP/1.1" 200 80
+127.0.0.1 [30/Jun/2025:12:07:31 +0800] 0.000788s "GET /api/profile HTTP/1.1" 200 114
+127.0.0.1 [30/Jun/2025:12:08:33 +0800] 5.026340s "POST /api/user/login HTTP/1.1" 200 80
+127.0.0.1 [30/Jun/2025:12:08:40 +0800] 0.014416s "POST /api/user/login HTTP/1.1" 200 80
+127.0.0.1 [30/Jun/2025:12:09:45 +0800] 0.014882s "POST /api/user/login HTTP/1.1" 200 217
+127.0.0.1 [30/Jun/2025:12:09:45 +0800] 0.025872s "GET /api/user HTTP/1.1" 200 495
+127.0.0.1 [30/Jun/2025:12:09:45 +0800] 0.000739s "GET /api/profile HTTP/1.1" 200 114
+127.0.0.1 [30/Jun/2025:12:09:45 +0800] 0.018215s "GET /api/user/list/APPLICATION HTTP/1.1" 200 154
+/root/anaconda3/envs/MarkTower/lib/python3.11/site-packages/django/db/models/base.py:366: RuntimeWarning: Model 'dataset.dynamics' was already registered. Reloading models is not advised as it can lead to inconsistencies, most notably with related models.
+  new_class._meta.apps.register_model(new_class._meta.app_label, new_class)
+127.0.0.1 [30/Jun/2025:12:09:45 +0800] 0.038999s "GET /api/application/1/30 HTTP/1.1" 200 98
+127.0.0.1 [30/Jun/2025:12:10:09 +0800] 0.028344s "PUT /api/user_manage/f0dd8f71-e4ee-11ee-8c84-a8a1595801ab/re_password HTTP/1.1" 200 49
+127.0.0.1 [30/Jun/2025:12:10:09 +0800] 0.014640s "GET /api/user HTTP/1.1" 200 496
+127.0.0.1 [30/Jun/2025:12:10:09 +0800] 0.000798s "GET /api/profile HTTP/1.1" 200 114
+127.0.0.1 [30/Jun/2025:12:10:25 +0800] 0.014347s "GET /api/user HTTP/1.1" 200 496
+127.0.0.1 [30/Jun/2025:12:10:25 +0800] 0.000775s "GET /api/profile HTTP/1.1" 200 114
+127.0.0.1 [30/Jun/2025:12:10:35 +0800] 0.014532s "GET /api/user HTTP/1.1" 200 496
+127.0.0.1 [30/Jun/2025:12:10:35 +0800] 0.000860s "GET /api/profile HTTP/1.1" 200 114
+127.0.0.1 [30/Jun/2025:12:10:38 +0800] 0.014304s "GET /api/user HTTP/1.1" 200 496
+127.0.0.1 [30/Jun/2025:12:10:38 +0800] 0.001018s "GET /api/profile HTTP/1.1" 200 114
+127.0.0.1 [30/Jun/2025:12:10:38 +0800] 0.016699s "GET /api/user/list/FUNCTION HTTP/1.1" 200 154
+127.0.0.1 [30/Jun/2025:12:10:38 +0800] 0.019762s "GET /api/function_lib/1/30 HTTP/1.1" 200 98
+127.0.0.1 [30/Jun/2025:12:10:40 +0800] 0.015064s "GET /api/user HTTP/1.1" 200 496
+127.0.0.1 [30/Jun/2025:12:10:40 +0800] 0.000723s "GET /api/profile HTTP/1.1" 200 114
+127.0.0.1 [30/Jun/2025:12:10:40 +0800] 0.017402s "GET /api/user/list/DATASET HTTP/1.1" 200 154
+/root/anaconda3/envs/MarkTower/lib/python3.11/site-packages/django/db/models/base.py:366: RuntimeWarning: Model 'dataset.dynamics' was already registered. Reloading models is not advised as it can lead to inconsistencies, most notably with related models.
+  new_class._meta.apps.register_model(new_class._meta.app_label, new_class)
+127.0.0.1 [30/Jun/2025:12:10:40 +0800] 0.031871s "GET /api/dataset/1/30 HTTP/1.1" 200 98
+127.0.0.1 [30/Jun/2025:12:10:42 +0800] 0.019619s "GET /api/user HTTP/1.1" 200 496
+127.0.0.1 [30/Jun/2025:12:10:42 +0800] 0.000656s "GET /api/profile HTTP/1.1" 200 114
+127.0.0.1 [30/Jun/2025:12:10:42 +0800] 0.016572s "GET /api/user/list/APPLICATION HTTP/1.1" 200 154
+127.0.0.1 [30/Jun/2025:12:10:42 +0800] 0.019286s "GET /api/application/1/30 HTTP/1.1" 200 98
+127.0.0.1 [30/Jun/2025:12:10:44 +0800] 0.014336s "GET /api/user HTTP/1.1" 200 496
+127.0.0.1 [30/Jun/2025:12:10:44 +0800] 0.000632s "GET /api/profile HTTP/1.1" 200 114
+127.0.0.1 [30/Jun/2025:12:10:44 +0800] 0.019769s "GET /api/team/member HTTP/1.1" 200 215
+127.0.0.1 [30/Jun/2025:12:10:44 +0800] 0.026289s "GET /api/team/member/root HTTP/1.1" 200 47
+127.0.0.1 [30/Jun/2025:12:10:47 +0800] 0.034151s "GET /api/provider HTTP/1.1" 200 286468
+127.0.0.1 [30/Jun/2025:12:10:47 +0800] 0.018002s "GET /api/model?name=&create_user=&permission_type=&model_type= HTTP/1.1" 200 367
+127.0.0.1 [30/Jun/2025:12:10:52 +0800] 0.014709s "GET /api/user HTTP/1.1" 200 496
+127.0.0.1 [30/Jun/2025:12:10:52 +0800] 0.000672s "GET /api/profile HTTP/1.1" 200 114
+127.0.0.1 [30/Jun/2025:12:10:53 +0800] 0.017204s "GET /api/user/list/APPLICATION HTTP/1.1" 200 154
+/root/anaconda3/envs/MarkTower/lib/python3.11/site-packages/django/db/models/base.py:366: RuntimeWarning: Model 'dataset.dynamics' was already registered. Reloading models is not advised as it can lead to inconsistencies, most notably with related models.
+  new_class._meta.apps.register_model(new_class._meta.app_label, new_class)
+127.0.0.1 [30/Jun/2025:12:10:53 +0800] 0.022096s "GET /api/application/1/30 HTTP/1.1" 200 98
+[2025-06-30 12:16:09 +0800] [3031862] [INFO] Handling signal: hup
+[2025-06-30 12:16:09 +0800] [3031862] [INFO] Hang up: Master
+[2025-06-30 12:16:09 +0800] [3032956] [INFO] Booting worker with pid: 3032956
+[2025-06-30 12:16:09 +0800] [3032958] [INFO] Booting worker with pid: 3032958
+[2025-06-30 12:16:09 +0800] [3032959] [INFO] Booting worker with pid: 3032959
+[2025-06-30 12:16:09 +0800] [3031862] [ERROR] Worker (pid:3031874) was sent SIGHUP!
+[2025-06-30 12:16:09 +0800] [3031862] [ERROR] Worker (pid:3031866) was sent SIGHUP!
+[2025-06-30 12:16:09 +0800] [3031862] [ERROR] Worker (pid:3031865) was sent SIGHUP!
+/root/anaconda3/envs/MarkTower/lib/python3.11/site-packages/drf_yasg/__init__.py:2: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import DistributionNotFound, get_distribution
+/root/anaconda3/envs/MarkTower/lib/python3.11/site-packages/drf_yasg/__init__.py:2: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import DistributionNotFound, get_distribution
+/root/anaconda3/envs/MarkTower/lib/python3.11/site-packages/drf_yasg/__init__.py:2: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import DistributionNotFound, get_distribution
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.857 seconds.
+Prefix dict has been built successfully.
+Loading model cost 0.861 seconds.
+Prefix dict has been built successfully.
+Loading model cost 0.874 seconds.
+Prefix dict has been built successfully.
+127.0.0.1 [30/Jun/2025:12:21:16 +0800] 5.083858s "GET /api/profile HTTP/1.1" 200 114
+127.0.0.1 [30/Jun/2025:12:21:16 +0800] 0.015793s "POST /api/user/login HTTP/1.1" 200 217
+127.0.0.1 [30/Jun/2025:12:21:21 +0800] 4.949492s "GET /api/user HTTP/1.1" 200 496
+127.0.0.1 [30/Jun/2025:12:21:21 +0800] 0.000641s "GET /api/profile HTTP/1.1" 200 114
+127.0.0.1 [30/Jun/2025:12:21:22 +0800] 0.018732s "GET /api/user/list/APPLICATION HTTP/1.1" 200 154
+/root/anaconda3/envs/MarkTower/lib/python3.11/site-packages/django/db/models/base.py:366: RuntimeWarning: Model 'dataset.dynamics' was already registered. Reloading models is not advised as it can lead to inconsistencies, most notably with related models.
+  new_class._meta.apps.register_model(new_class._meta.app_label, new_class)
+127.0.0.1 [30/Jun/2025:12:21:26 +0800] 4.942664s "GET /api/application/1/30 HTTP/1.1" 200 98
+127.0.0.1 [30/Jun/2025:12:21:29 +0800] 0.014351s "GET /api/user HTTP/1.1" 200 496
+127.0.0.1 [30/Jun/2025:12:21:29 +0800] 0.000728s "GET /api/profile HTTP/1.1" 200 114
+127.0.0.1 [30/Jun/2025:12:21:29 +0800] 0.018728s "GET /api/user/list/DATASET HTTP/1.1" 200 154
+/root/anaconda3/envs/MarkTower/lib/python3.11/site-packages/django/db/models/base.py:366: RuntimeWarning: Model 'dataset.dynamics' was already registered. Reloading models is not advised as it can lead to inconsistencies, most notably with related models.
+  new_class._meta.apps.register_model(new_class._meta.app_label, new_class)
+127.0.0.1 [30/Jun/2025:12:21:29 +0800] 0.021306s "GET /api/dataset/1/30 HTTP/1.1" 200 98
+127.0.0.1 [30/Jun/2025:12:21:30 +0800] 0.014323s "GET /api/user HTTP/1.1" 200 496
+127.0.0.1 [30/Jun/2025:12:21:30 +0800] 0.000698s "GET /api/profile HTTP/1.1" 200 114
+127.0.0.1 [30/Jun/2025:12:21:30 +0800] 0.016680s "GET /api/user/list/FUNCTION HTTP/1.1" 200 154
+127.0.0.1 [30/Jun/2025:12:21:30 +0800] 0.027002s "GET /api/function_lib/1/30 HTTP/1.1" 200 98
+127.0.0.1 [30/Jun/2025:12:21:32 +0800] 0.014666s "GET /api/user HTTP/1.1" 200 496
+127.0.0.1 [30/Jun/2025:12:21:32 +0800] 0.000822s "GET /api/profile HTTP/1.1" 200 114
+127.0.0.1 [30/Jun/2025:12:21:33 +0800] 0.014462s "GET /api/user HTTP/1.1" 200 496
+127.0.0.1 [30/Jun/2025:12:21:33 +0800] 0.000677s "GET /api/profile HTTP/1.1" 200 114
+127.0.0.1 [30/Jun/2025:12:21:34 +0800] 0.014174s "GET /api/user HTTP/1.1" 200 496
+127.0.0.1 [30/Jun/2025:12:21:34 +0800] 0.000843s "GET /api/profile HTTP/1.1" 200 114
+127.0.0.1 [30/Jun/2025:12:21:34 +0800] 0.015125s "GET /api/team/member HTTP/1.1" 200 215
+127.0.0.1 [30/Jun/2025:12:21:34 +0800] 0.015346s "GET /api/team/member/root HTTP/1.1" 200 47
+127.0.0.1 [30/Jun/2025:12:21:38 +0800] 0.016019s "GET /api/provider HTTP/1.1" 200 286468
+127.0.0.1 [30/Jun/2025:12:21:38 +0800] 0.016986s "GET /api/model?name=&create_user=&permission_type=&model_type= HTTP/1.1" 200 367
+127.0.0.1 [30/Jun/2025:12:21:47 +0800] 0.014814s "GET /api/user HTTP/1.1" 200 496
+127.0.0.1 [30/Jun/2025:12:21:47 +0800] 0.000834s "GET /api/profile HTTP/1.1" 200 114
+127.0.0.1 [30/Jun/2025:12:21:47 +0800] 0.016631s "GET /api/user/list/APPLICATION HTTP/1.1" 200 154
+127.0.0.1 [30/Jun/2025:12:21:47 +0800] 0.019064s "GET /api/application/1/30 HTTP/1.1" 200 98
+127.0.0.1 [30/Jun/2025:12:21:48 +0800] 0.014810s "GET /api/valid/application/5 HTTP/1.1" 200 49
+127.0.0.1 [30/Jun/2025:12:22:10 +0800] 0.035234s "POST /api/application HTTP/1.1" 200 7489
+127.0.0.1 [30/Jun/2025:12:22:11 +0800] 0.024461s "GET /api/application/caba3f30-5569-11f0-8a3a-1c697a6de8a0/application HTTP/1.1" 200 47
+127.0.0.1 [30/Jun/2025:12:22:11 +0800] 0.028523s "GET /api/application/caba3f30-5569-11f0-8a3a-1c697a6de8a0/function_lib HTTP/1.1" 200 47
+127.0.0.1 [30/Jun/2025:12:22:11 +0800] 0.039605s "GET /api/application/caba3f30-5569-11f0-8a3a-1c697a6de8a0 HTTP/1.1" 200 7651
+127.0.0.1 [30/Jun/2025:12:22:12 +0800] 0.019931s "GET /api/application/caba3f30-5569-11f0-8a3a-1c697a6de8a0/list_dataset HTTP/1.1" 200 47
+127.0.0.1 [30/Jun/2025:12:22:12 +0800] 0.023954s "GET /api/application/caba3f30-5569-11f0-8a3a-1c697a6de8a0/model HTTP/1.1" 200 47
+127.0.0.1 [30/Jun/2025:12:22:12 +0800] 0.026415s "GET /api/application/caba3f30-5569-11f0-8a3a-1c697a6de8a0/model?model_type=STT HTTP/1.1" 200 47
+127.0.0.1 [30/Jun/2025:12:22:12 +0800] 0.021284s "GET /api/provider HTTP/1.1" 200 286468
+127.0.0.1 [30/Jun/2025:12:22:12 +0800] 0.030011s "GET /api/application/caba3f30-5569-11f0-8a3a-1c697a6de8a0/model?model_type=TTS HTTP/1.1" 200 47
+127.0.0.1 [30/Jun/2025:12:22:12 +0800] 0.022270s "GET /api/application/caba3f30-5569-11f0-8a3a-1c697a6de8a0/model HTTP/1.1" 200 47
+127.0.0.1 [30/Jun/2025:12:22:12 +0800] 0.021300s "GET /api/provider HTTP/1.1" 200 286468
+127.0.0.1 [30/Jun/2025:12:22:12 +0800] 0.016607s "GET /api/provider HTTP/1.1" 200 286468
+127.0.0.1 [30/Jun/2025:12:22:25 +0800] 0.020032s "GET /api/application/caba3f30-5569-11f0-8a3a-1c697a6de8a0/access_token HTTP/1.1" 200 258
+127.0.0.1 [30/Jun/2025:12:22:25 +0800] 0.025671s "GET /api/application HTTP/1.1" 200 7632
+127.0.0.1 [30/Jun/2025:12:22:25 +0800] 0.026918s "GET /api/application/caba3f30-5569-11f0-8a3a-1c697a6de8a0 HTTP/1.1" 200 7651
+/root/anaconda3/envs/MarkTower/lib/python3.11/site-packages/django/db/models/fields/__init__.py:1595: RuntimeWarning: DateTimeField Dynamics.application_chat_record.create_time received a naive datetime (2025-06-23 00:00:00) while time zone support is active.
+  warnings.warn(
+/root/anaconda3/envs/MarkTower/lib/python3.11/site-packages/django/db/models/fields/__init__.py:1595: RuntimeWarning: DateTimeField Dynamics.application_chat_record.create_time received a naive datetime (2025-06-30 23:59:59.999999) while time zone support is active.
+  warnings.warn(
+/root/anaconda3/envs/MarkTower/lib/python3.11/site-packages/django/db/models/fields/__init__.py:1595: RuntimeWarning: DateTimeField ApplicationPublicAccessClient.create_time received a naive datetime (2025-06-23 00:00:00) while time zone support is active.
+  warnings.warn(
+/root/anaconda3/envs/MarkTower/lib/python3.11/site-packages/django/db/models/fields/__init__.py:1595: RuntimeWarning: DateTimeField ApplicationPublicAccessClient.create_time received a naive datetime (2025-06-30 23:59:59.999999) while time zone support is active.
+  warnings.warn(
+127.0.0.1 [30/Jun/2025:12:22:25 +0800] 0.069324s "GET /api/application/caba3f30-5569-11f0-8a3a-1c697a6de8a0/statistics/chat_record_aggregate_trend?start_time=2025-06-23&end_time=2025-06-30 HTTP/1.1" 200 1189
+127.0.0.1 [30/Jun/2025:12:22:27 +0800] 0.022016s "GET /api/application/caba3f30-5569-11f0-8a3a-1c697a6de8a0/function_lib HTTP/1.1" 200 47
+127.0.0.1 [30/Jun/2025:12:22:27 +0800] 0.022531s "GET /api/application/caba3f30-5569-11f0-8a3a-1c697a6de8a0/application HTTP/1.1" 200 47
+127.0.0.1 [30/Jun/2025:12:22:27 +0800] 0.024228s "GET /api/application/caba3f30-5569-11f0-8a3a-1c697a6de8a0 HTTP/1.1" 200 7651
+127.0.0.1 [30/Jun/2025:12:22:27 +0800] 0.021485s "GET /api/provider HTTP/1.1" 200 286468
+127.0.0.1 [30/Jun/2025:12:22:27 +0800] 0.025500s "GET /api/application/caba3f30-5569-11f0-8a3a-1c697a6de8a0/model HTTP/1.1" 200 47
+127.0.0.1 [30/Jun/2025:12:22:27 +0800] 0.030157s "GET /api/application/caba3f30-5569-11f0-8a3a-1c697a6de8a0/model?model_type=STT HTTP/1.1" 200 47
+127.0.0.1 [30/Jun/2025:12:22:27 +0800] 0.029443s "GET /api/application/caba3f30-5569-11f0-8a3a-1c697a6de8a0/list_dataset HTTP/1.1" 200 47
+127.0.0.1 [30/Jun/2025:12:22:27 +0800] 0.033414s "GET /api/application/caba3f30-5569-11f0-8a3a-1c697a6de8a0/model?model_type=TTS HTTP/1.1" 200 47
+127.0.0.1 [30/Jun/2025:12:22:27 +0800] 0.017942s "GET /api/provider HTTP/1.1" 200 286468
+127.0.0.1 [30/Jun/2025:12:22:27 +0800] 0.020512s "GET /api/application/caba3f30-5569-11f0-8a3a-1c697a6de8a0/model HTTP/1.1" 200 47
+127.0.0.1 [30/Jun/2025:12:22:27 +0800] 0.015720s "GET /api/provider HTTP/1.1" 200 286468
+/root/anaconda3/envs/MarkTower/lib/python3.11/site-packages/django/db/models/fields/__init__.py:1595: RuntimeWarning: DateTimeField Dynamics.application_chat_record.create_time received a naive datetime (2025-06-23 00:00:00) while time zone support is active.
+  warnings.warn(
+/root/anaconda3/envs/MarkTower/lib/python3.11/site-packages/django/db/models/fields/__init__.py:1595: RuntimeWarning: DateTimeField Dynamics.application_chat_record.create_time received a naive datetime (2025-06-30 23:59:59.999999) while time zone support is active.
+  warnings.warn(
+/root/anaconda3/envs/MarkTower/lib/python3.11/site-packages/django/db/models/fields/__init__.py:1595: RuntimeWarning: DateTimeField ApplicationPublicAccessClient.create_time received a naive datetime (2025-06-23 00:00:00) while time zone support is active.
+  warnings.warn(
+/root/anaconda3/envs/MarkTower/lib/python3.11/site-packages/django/db/models/fields/__init__.py:1595: RuntimeWarning: DateTimeField ApplicationPublicAccessClient.create_time received a naive datetime (2025-06-30 23:59:59.999999) while time zone support is active.
+  warnings.warn(
+127.0.0.1 [30/Jun/2025:12:22:36 +0800] 0.032808s "GET /api/application HTTP/1.1" 200 7632
+127.0.0.1 [30/Jun/2025:12:22:36 +0800] 0.034432s "GET /api/application/caba3f30-5569-11f0-8a3a-1c697a6de8a0 HTTP/1.1" 200 7651
+127.0.0.1 [30/Jun/2025:12:22:36 +0800] 0.031559s "GET /api/application/caba3f30-5569-11f0-8a3a-1c697a6de8a0/access_token HTTP/1.1" 200 258
+127.0.0.1 [30/Jun/2025:12:22:36 +0800] 0.038487s "GET /api/application/caba3f30-5569-11f0-8a3a-1c697a6de8a0/statistics/chat_record_aggregate_trend?start_time=2025-06-23&end_time=2025-06-30 HTTP/1.1" 200 1189
+127.0.0.1 [30/Jun/2025:12:26:15 +0800] 0.000668s "GET /api/profile HTTP/1.1" 200 114
+127.0.0.1 [30/Jun/2025:12:26:21 +0800] 0.000755s "GET /api/profile HTTP/1.1" 200 114
+127.0.0.1 [30/Jun/2025:12:26:39 +0800] 0.014929s "POST /api/user/login HTTP/1.1" 200 217
+127.0.0.1 [30/Jun/2025:12:26:39 +0800] 0.014660s "GET /api/user HTTP/1.1" 200 670
+127.0.0.1 [30/Jun/2025:12:26:39 +0800] 0.000729s "GET /api/profile HTTP/1.1" 200 114
+127.0.0.1 [30/Jun/2025:12:26:39 +0800] 0.017376s "GET /api/user/list/APPLICATION HTTP/1.1" 200 154
+/root/anaconda3/envs/MarkTower/lib/python3.11/site-packages/django/db/models/base.py:366: RuntimeWarning: Model 'dataset.dynamics' was already registered. Reloading models is not advised as it can lead to inconsistencies, most notably with related models.
+  new_class._meta.apps.register_model(new_class._meta.app_label, new_class)
+127.0.0.1 [30/Jun/2025:12:26:39 +0800] 0.020677s "GET /api/application/1/30 HTTP/1.1" 200 7683
+127.0.0.1 [30/Jun/2025:12:26:42 +0800] 0.016533s "GET /api/application/caba3f30-5569-11f0-8a3a-1c697a6de8a0/access_token HTTP/1.1" 200 258
+127.0.0.1 [30/Jun/2025:12:26:42 +0800] 0.023012s "GET /api/application HTTP/1.1" 200 7632
+127.0.0.1 [30/Jun/2025:12:26:42 +0800] 0.025660s "GET /api/application/caba3f30-5569-11f0-8a3a-1c697a6de8a0/statistics/chat_record_aggregate_trend?start_time=2025-06-23&end_time=2025-06-30 HTTP/1.1" 200 1189
+127.0.0.1 [30/Jun/2025:12:26:42 +0800] 0.031076s "GET /api/application/caba3f30-5569-11f0-8a3a-1c697a6de8a0 HTTP/1.1" 200 7651
+127.0.0.1 [30/Jun/2025:12:26:46 +0800] 0.019053s "GET /api/application/caba3f30-5569-11f0-8a3a-1c697a6de8a0/function_lib HTTP/1.1" 200 47
+127.0.0.1 [30/Jun/2025:12:26:46 +0800] 0.020280s "GET /api/application/caba3f30-5569-11f0-8a3a-1c697a6de8a0/application HTTP/1.1" 200 47
+127.0.0.1 [30/Jun/2025:12:26:46 +0800] 0.023002s "GET /api/application/caba3f30-5569-11f0-8a3a-1c697a6de8a0 HTTP/1.1" 200 7651
+127.0.0.1 [30/Jun/2025:12:26:47 +0800] 0.022164s "GET /api/provider HTTP/1.1" 200 286468
+127.0.0.1 [30/Jun/2025:12:26:47 +0800] 0.023924s "GET /api/application/caba3f30-5569-11f0-8a3a-1c697a6de8a0/model?model_type=TTS HTTP/1.1" 200 47
+127.0.0.1 [30/Jun/2025:12:26:47 +0800] 0.026635s "GET /api/application/caba3f30-5569-11f0-8a3a-1c697a6de8a0/model?model_type=STT HTTP/1.1" 200 47
+127.0.0.1 [30/Jun/2025:12:26:47 +0800] 0.025759s "GET /api/application/caba3f30-5569-11f0-8a3a-1c697a6de8a0/list_dataset HTTP/1.1" 200 47
+127.0.0.1 [30/Jun/2025:12:26:47 +0800] 0.028694s "GET /api/application/caba3f30-5569-11f0-8a3a-1c697a6de8a0/model HTTP/1.1" 200 47
+[2025-06-30 14:22:29 +0800] [3031862] [INFO] Handling signal: term
+[2025-06-30 14:22:30 +0800] [3032956] [INFO] Worker exiting (pid: 3032956)
+[2025-06-30 14:22:30 +0800] [3032958] [INFO] Worker exiting (pid: 3032958)
+[2025-06-30 14:22:30 +0800] [3032959] [INFO] Worker exiting (pid: 3032959)
+[2025-06-30 14:22:31 +0800] [3031862] [INFO] Shutting down: Master
+[2025-06-30 14:25:42 +0800] [3048897] [INFO] Starting gunicorn 22.0.0
+[2025-06-30 14:25:42 +0800] [3048897] [INFO] Listening at: http://0.0.0.0:8080 (3048897)
+[2025-06-30 14:25:42 +0800] [3048897] [INFO] Using worker: gthread
+[2025-06-30 14:25:42 +0800] [3048900] [INFO] Booting worker with pid: 3048900
+[2025-06-30 14:25:42 +0800] [3048902] [INFO] Booting worker with pid: 3048902
+[2025-06-30 14:25:43 +0800] [3048903] [INFO] Booting worker with pid: 3048903
+/root/anaconda3/envs/MarkTower/lib/python3.11/site-packages/drf_yasg/__init__.py:2: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import DistributionNotFound, get_distribution
+/root/anaconda3/envs/MarkTower/lib/python3.11/site-packages/drf_yasg/__init__.py:2: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import DistributionNotFound, get_distribution
+/root/anaconda3/envs/MarkTower/lib/python3.11/site-packages/drf_yasg/__init__.py:2: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import DistributionNotFound, get_distribution
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.931 seconds.
+Prefix dict has been built successfully.
+Loading model cost 1.202 seconds.
+Prefix dict has been built successfully.
+Loading model cost 1.146 seconds.
+Prefix dict has been built successfully.

@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "maxkb"
+name = "xunlian-server"
 version = "0.1.0"
 description = "智能知识库问答系统"
 authors = ["shaohuzhang1 <shaohu.zhang@fit2cloud.com>"]
@@ -68,6 +68,7 @@ name = "pytorch"
 url = "https://mirrors.aliyun.com/pypi/simple/"
 priority = "explicit"
 
+
 [[tool.poetry.source]]
 name = "ali"
 url = "https://mirrors.aliyun.com/pypi/simple/"
@@ -84,3 +85,10 @@ priority = "primary"
 name = "tsinghua"
 url = "https://mirrors.tuna.tsinghua.edu.cn/pypi/web/simple/"
 priority = "primary"
+
+
+[[tool.poetry.source]]
+name = "mirrors"
+url = "http://mirrors.aliyun.com/pypi/simple"
+priority = "primary"
+
