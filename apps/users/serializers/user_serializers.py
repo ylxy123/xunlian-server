@@ -50,9 +50,17 @@ class SystemSerializer(ApiMixin, serializers.Serializer):
     def get_profile():
         version = os.environ.get('MAXKB_VERSION')
         xpack_cache = DBModelManage.get_model('xpack_cache')
-        return {'version': version, 'IS_XPACK': hasattr(settings, 'IS_XPACK'),
-                'XPACK_LICENSE_IS_VALID': False if xpack_cache is None else xpack_cache.get('XPACK_LICENSE_IS_VALID',
-                                                                                            False)}
+        license_info = xpack_cache.get("LICENSE_INFO", {}) if xpack_cache is not None else {}
+        return {
+            "version": version,
+            "IS_XPACK": hasattr(settings, "IS_XPACK"),
+            "XPACK_LICENSE_IS_VALID": license_info.get("is_valid", False),
+            "LICENSED_TO": license_info.get("licensed_to"),
+            "LICENSE_EXPIRE_AT": license_info.get("expire_at"),
+            "LICENSE_VERSION": license_info.get("version"),
+            "LICENSE_SERIAL_NUMBER": license_info.get("serial_number"),
+            "LICENSE_NOTE": license_info.get("note"),
+        }
 
     @staticmethod
     def get_response_body_api():
@@ -60,8 +68,15 @@ class SystemSerializer(ApiMixin, serializers.Serializer):
             type=openapi.TYPE_OBJECT,
             required=[],
             properties={
-                'version': openapi.Schema(type=openapi.TYPE_STRING, title=_("System version number"),
-                                          description=_("System version number")),
+                'version': openapi.Schema(type=openapi.TYPE_STRING, title=_('System version number'),
+                                          description=_('System version number')),
+                'IS_XPACK': openapi.Schema(type=openapi.TYPE_BOOLEAN, title=_('XPack enable flag')),
+                'XPACK_LICENSE_IS_VALID': openapi.Schema(type=openapi.TYPE_BOOLEAN, title=_('Is license valid')),
+                'LICENSED_TO': openapi.Schema(type=openapi.TYPE_STRING, title=_('Licensed to'), description=_('Licensed user')),
+                'LICENSE_EXPIRE_AT': openapi.Schema(type=openapi.TYPE_INTEGER, title=_('License expire at')),
+                'LICENSE_VERSION': openapi.Schema(type=openapi.TYPE_STRING, title=_('License version')),
+                'LICENSE_SERIAL_NUMBER': openapi.Schema(type=openapi.TYPE_STRING, title=_('Serial number')),
+                'LICENSE_NOTE': openapi.Schema(type=openapi.TYPE_STRING, title=_('License note')),
             }
         )
 
